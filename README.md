@@ -1,3 +1,4 @@
 # TrabajoMaster
 Config files for my GitHub profile.
-<p>This is a survey about how covid is influenced by mobility and climate</p>
+<p>This is a work about how covid is influenced by people mobility and climate</p>
+
