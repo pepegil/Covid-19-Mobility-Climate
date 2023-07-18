@@ -1,5 +1,5 @@
 # COVID-19+Mobility+climate
-<p>This is a work about how covid-19 is influenced by people mobility and climate</p>
+<p>This is a work about how covid-19 pandemic is  influenced by people mobility and climate</p>
 
 <p>Data come from the period from March 2020 to January 2021 and can be downloaded from the sources:</p>
 
