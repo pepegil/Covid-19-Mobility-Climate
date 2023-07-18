@@ -4,7 +4,7 @@
 <p>This is a work about how covid-19 pandemic is  influenced by people mobility and climate</p>
 
 
-<p>Data come from the period from March 2020 to January 2021 and can be downloaded from the sources:</p>
+<p>Data come from the period March 2020 to January 2021 and can be downloaded here:</p>
 
   <li> Climate data : Ministerio de Transición Ecológica. (2021). AEMET OpenData. http://www.aemet.es/es/datos_abiertos/AEMET_OpenData </li>
   <li> Relative humidity data : MeteoBlue. (2021). meteoblue weather close to you. https://www.meteoblue.com/es/tiempo/historyclimate/weatherarchive/ </li>
