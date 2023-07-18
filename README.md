@@ -1,4 +1,4 @@
-# COVID-19+Mobility+climate
+# COVID19 + Mobility + climate
 
 
 <p>This is a work about how covid-19 pandemic is  influenced by people mobility and climate</p>
