@@ -13,7 +13,7 @@
 
 <p></p>
 
-<p>Files with name ETL show the process of extraction and transformation data from the sorces listed above.      </p>
+<p>Files with name ETL show the process of extraction and transformation data from the sources listed above.      </p>
 
 
 
