@@ -6,3 +6,4 @@
 <ul>movility.csv </ul>
 <ul>movility_ext.csv * this is when the field destino is used to separate exterior and interior journeys   </ul>
 
+Go back https://github.com/pepegil/prueba-0/blob/main/README.md
